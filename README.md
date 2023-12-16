@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iyallenu
-- 👀 I’m interested in being a UI/UX Designer
-- 🌱 I’m currently learning UI/UX
+- 👀 I’m interested 
+- 🌱 I’m 
 - 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me via email iyallenu1@outlook.com
 
