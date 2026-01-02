@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Iyallenu
-- 👀 I’m interested 
-- 🌱 I’m 
-- 💞️ I’m looking to collaborate with anyone
-- 📫 How to reach me via email iyallenu1@outlook.com
+- 👋 Hi, I’m @Laem
+- You can reach me @Iyallenu11@gmail.com
+  
 
 <!---
 Iyallenu/Iyallenu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
